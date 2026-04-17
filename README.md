@@ -3,7 +3,7 @@
 ## Purpose
 While playing with random people on a Lethal Company server, I found it strange how the two common methods of invitations were:
 - Adding as friends on Steam
-- Going on the your (the host) Steam profile, right-clicking on join, and copying the Steam lobby link to send to others   
+- Going on your (the host) Steam profile, right-clicking on join, and copying the Steam lobby link to send to others   
 
 I decided to spend the next 14 hours straight figuring out C# (which is odd as someone experienced in Python). Then, upload this super simple mod to make it easier for the societal niche of people who want to play Lethal Company with randoms but not add them as Steam friends.  
 
