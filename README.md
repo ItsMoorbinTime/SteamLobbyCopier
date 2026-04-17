@@ -11,7 +11,7 @@ I decided to spend the next 14 hours straight figuring out C# (which is odd as s
 Press 'I' while in game to copy the Steam lobby link to your clipboard. You can change the keybind in the settings.  
 
 ## Shoutouts
-Thank you to quackandcheese and their ToggleMute mod for helping me learn C# syntax and how to use dependencies.
-Thank you to MrMiinxx for helping me figure out the basics of C# structure with their modding tutorial (https://www.youtube.com/watch?v=4Q7Zp5K2ywI).
-Thank you to Rune580 for making LethalCompany_InputUtils-0.7.13 to detect user inputs.-
-Thank you to ratijas on the Lethal Company Modding discord for pointing me towards helpful resources.
+Thank you to quackandcheese and their ToggleMute mod for helping me learn C# syntax and how to use dependencies.  
+Thank you to MrMiinxx for helping me figure out the basics of C# structure with their modding tutorial (https://www.youtube.com/watch?v=4Q7Zp5K2ywI).  
+Thank you to Rune580 for making LethalCompany_InputUtils-0.7.13 to detect user inputs.  
+Thank you to ratijas on the Lethal Company Modding discord for pointing me towards helpful resources.  
