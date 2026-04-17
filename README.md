@@ -1,7 +1,7 @@
 # Steam Lobby Copier
 
 ## Purpose
-While playing with random people on a Lethl Company server, I found it strange how the two common methods of invitations were:
+While playing with random people on a Lethal Company server, I found it strange how the two common methods of invitations were:
 - Adding as friends on Steam
 - Going on the your (the host) Steam profile, right-clicking on join, and copying the Steam lobby link to send to others   
 
