@@ -1,10 +1,10 @@
 {
     "name": "SteamLobbyCopier",
-    "version_number": "1.0.1",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/ItsMoorbinTime/SteamLobbyCopier",
     "description": "Lets you copy the Steam lobby link to clipboard to help others join your game. Useful if you're not Steam friends.",
     "dependencies": [
-		"BepInEx-BepInExPack-5.4.2305",
+	"BepInEx-BepInExPack-5.4.2305",
     	"Rune580-LethalCompany_InputUtils-0.7.13"
     ]
 }
